@@ -35,7 +35,7 @@ public class Mathlibrary {
 	{
 		int median = 0;
 		Mathlibrary.bubblesort(array);
-		
+		//Hier vebessern
 		for (int i = 0; i < array.length; i++) 
 		{
 			if(i == array.length / 2)
